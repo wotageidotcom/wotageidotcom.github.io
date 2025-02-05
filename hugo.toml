@@ -1,0 +1,4 @@
+baseURL = 'https://wotagei.com/'
+languageCode = 'en-us'
+title = 'Wotagei <3'
+theme = 'ananke'
